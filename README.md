@@ -31,7 +31,10 @@ An API (Application Programming Interface) is a set of rules that allows differe
 
 **Postman helps us:**
 
-Verify if APIs return correct data
+Verify if APIs return correct data ?
+is the responce time acceptable ?
+Are the status codes correct ?
+does the API handle invalid input properly ?
 Check error handling
 Test performance (response time)
 Automate validations
