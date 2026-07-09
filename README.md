@@ -65,8 +65,10 @@ This tells us if the request was successful.
 **Common codes:**
 * 200 OK → Success
 * 201 Created → Data created
+* 204 non content
 * 404 Not Found → Resource missing
 * 500 Server Error → Server issue
+* 504 GateWay time out
 * 401 Unauthorized → Not logged in
 * 403 Forbidden → No permission
 As a QA tester, this is the first thing we should check.
